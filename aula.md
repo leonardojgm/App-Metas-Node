@@ -3,7 +3,7 @@
 Maneira de dar instrução ao computador.
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-**Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
+> 💡 **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma liguagem
 
@@ -12,7 +12,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
 - [x] Tipos de dados (string, number, boolean)
 - [x] Estrutura de dados (functions, object, array)
-- [] Controle de fluxo (if/else)
+- [x] Controle de fluxo (if/else)
 - [x] Estrutura de repetição (for, while)
 
 # Fases de resolução de um problema
@@ -34,8 +34,9 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operador de atribuição de valor
-- [x] Operador de concatenação
+- [x] Operador de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação: ==  !=  <= >= < >
 
 ## Estrutura de dados
 
@@ -62,6 +63,7 @@ Apresentar os dados
 # Condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
