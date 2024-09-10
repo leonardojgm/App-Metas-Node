@@ -17,9 +17,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Fases de resolução de um problema
 
-Coletar os dados
-Processar os dados (manipular, alterar ...)
-Apresentar os dados
+- [x] Coletar os dados
+- [x] Processar os dados (manipular, alterar ...)
+- [x] Apresentar os dados
 
 ## Escopo de variaveis
 
@@ -43,6 +43,7 @@ Apresentar os dados
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, find, forEach
 
 ### Objetos:
 
