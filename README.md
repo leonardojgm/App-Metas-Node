@@ -1,4 +1,4 @@
-Desenvolvido para o NLW (Next Level Week Pocket) da Rocketseat
+Desenvolvido para o NLW (Next Level Week Pocket) 17 "Javascript - Programação Iniciante" da Rocketseat
 
 ![image](https://github.com/user-attachments/assets/7d738fa7-92d0-4974-b394-0afdc896d759)
 
