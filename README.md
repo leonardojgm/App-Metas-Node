@@ -20,4 +20,4 @@ Desenvolvido para o NLW (Next Level Week Pocket) da Rocketseat
 
 ![image](https://github.com/user-attachments/assets/37943b88-1e02-4245-9da7-3025f0cdff9d)
 
-Certificado: [certificate.pdf](https://github.com/user-attachments/files/17003068/certificate.pdf)
+![image](https://github.com/user-attachments/assets/cb6fc4ac-aba6-4c50-94f7-e9fe9be334a1)
